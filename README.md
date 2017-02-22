@@ -1,4 +1,5 @@
 ## Spike identification in given weblog dataset which represents a website a random user has visited, his start date time and his end date time.
+## Calculating total annual sales per department across all stores in salesdata dataset which is weekly sales data of a company which has several stores and each store has several departments.
 
 **Commands** for running various map-reduce jobs are as follows:
 
